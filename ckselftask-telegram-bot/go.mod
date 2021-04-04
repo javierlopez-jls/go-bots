@@ -1,4 +1,4 @@
-module github.com/javierlopez_jls/go-bots/telegram-zero
+module github.com/javierlopez_jls/go-bots/ckselftask-telegram-bot
 
 go 1.16
 
